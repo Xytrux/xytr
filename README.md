@@ -1,4 +1,4 @@
-## y43-text
+## y43
 
 A sort of Vim 2.0
 
