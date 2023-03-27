@@ -16,6 +16,8 @@ Then, you can run it:
 bash compile.sh
 ```
 
+Finally, just run `xytr <filename>`
+
 I know the download is a bit complicated but i am working on turning it into a linux package for easier downloading.
 
 ## Features
