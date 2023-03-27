@@ -1,4 +1,4 @@
-## y43
+## xytr editor
 
 A sort of Vim 2.0
 
@@ -6,7 +6,7 @@ A sort of Vim 2.0
 
 Simply just run
 
-First, download [this file](https://github.com/Xytrux/y43/releases/download/y43/compile.sh)
+First, download [this file](https://github.com/Xytrux/xytr/releases/download/xytr/compile.sh)
 
 Next, you want to run it by changing your directory where you put the file.
 

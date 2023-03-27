@@ -1,7 +1,2 @@
-all: y43
-
-y43: y43.c
-	$(CC) -o y43 y43.c -Wall -W -pedantic -std=c99
-
-clean:
-	rm y43
+xytr: xytr.c
+	$(CC) xytr.c -o xytr -Wall -Wextra -pedantic -std=c99

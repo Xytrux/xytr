@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/Xytrux/y43.git
-cd y43
+git clone https://github.com/Xytrux/xytr.git
+cd xytr
 make
-./y43
+./xytr
