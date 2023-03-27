@@ -6,7 +6,7 @@ A sort of Vim 2.0
 
 Simply just run
 
-First, download `compile.sh` or simply just CTRL + S [This page](https://raw.githubusercontent.com/Xytrux/y43/master/compile.sh).
+First, download [this file](https://github.com/Xytrux/y43/releases/download/y43/compile.sh)
 
 Next, you want to run it by changing your directory where you put the file.
 
