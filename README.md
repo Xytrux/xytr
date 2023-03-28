@@ -8,7 +8,7 @@ Simply just run
 
 First, download [this file](https://github.com/Xytrux/xytr/releases/download/xytr/compile.sh)
 
-Next, you want to run it by changing your directory where you put the file.
+Next, you want to run it by changing your directory where you put the file. (preferably in root)
 
 Then, you can run it:
 
