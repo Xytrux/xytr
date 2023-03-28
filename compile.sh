@@ -1,8 +1,10 @@
 #!/bin/bash
 
 cd
+rm -r xytr
 git clone https://github.com/Xytrux/xytr.git
 cd xytr
 make
 cd ..
-export PATH=$PATH:~/xytr
+echo "export PATH=\$PATH:~/xytr" >> ~/.bashrc
+source ~/.bashrc
