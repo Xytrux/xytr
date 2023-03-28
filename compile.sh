@@ -3,4 +3,5 @@
 git clone https://github.com/Xytrux/xytr.git
 cd xytr
 make
-sudo mv ./xytr /etc/xytr
+cd ..
+export PATH=$PATH:/xytr
