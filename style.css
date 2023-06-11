@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html{
+background-color: rgb(213, 52, 92);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.downloadbutton1{
+background-color: aqua;
+}
